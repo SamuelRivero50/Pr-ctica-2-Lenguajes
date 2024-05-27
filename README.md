@@ -5,7 +5,7 @@ Integrantes:
 - Samuel Enrique Rivero Urribarrí
 - Alejandro Sepulveda Posada
 
-IDE: Vscode
+IDE: Visual Studio Code
 
 Compiler: The Glorious Glasgow Haskell Compilation System, version 9.4.8
 
