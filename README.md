@@ -9,4 +9,4 @@ IDE: Visual Studio Code
 
 Compiler: The Glorious Glasgow Haskell Compilation System, version 9.4.8
 
-Video Link:
+Video Link: https://www.youtube.com/watch?v=F1dNo4nT5UI
